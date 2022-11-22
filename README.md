@@ -1,5 +1,7 @@
 # Badger Watch
 
+Badger Watch is a cross-platform mobile app that helps you identify, document and report badger persecution and related wildlife crime in England and Wales.
+
 Visit the project website for information about Badger Watch and how to test it, at [badger.projectbadger.org](http://badger.projectbadger.org/)
 
 * [How to install Badger Watch](https://crsdc.github.io/badger/install/) &mdash; and keep it updated
@@ -7,7 +9,7 @@ Visit the project website for information about Badger Watch and how to test it,
     * Install Badger Watch: https://play.google.com/store/apps/details?id=org.projectbadger.badger
   * iOS
     * Install TestFlight: https://itunes.apple.com/gb/app/testflight/id899247664
-    * Then install Badger Watch: https://itunes.apple.com/gb/app/testflight/id899247664
+    * Then install Badger Watch: https://testflight.apple.com/join/aiSmVTU4
 * [Introduction](https://crsdc.github.io/badger/intro/) &mdash; some information about the app and its testing phase
 * [Q&amp;A](https://crsdc.github.io/badger/qanda/) &mdash; answers for local badger groups, app testers and others
 * [What to test](https://crsdc.github.io/badger/testing/) &mdash; and what to look out for
@@ -18,4 +20,4 @@ Visit the project website for information about Badger Watch and how to test it,
 
 This repository is used for issue tracking for now.
 
-Source code will be made available upon final public release of the app.
+Badger Watch was developed with Flutter. Source code will be made available here upon final public release, anticipated late 2022.
