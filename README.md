@@ -1,3 +1,5 @@
+# Badger Watch
+
 Visit the project website for information about Badger Watch and how to test it, at [badger.projectbadger.org](http://badger.projectbadger.org/)
 
 * [How to install Badger Watch](https://crsdc.github.io/badger/install/) &mdash; and keep it updated
