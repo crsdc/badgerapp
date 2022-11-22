@@ -1,3 +1,19 @@
-This repository can be used for issue tracking for now.
+Visit the project website for information about Badger Watch and how to test it, at [badger.projectbadger.org](http://badger.projectbadger.org/)
 
-Source code will be made available upon public release.
+* [How to install Badger Watch](https://crsdc.github.io/badger/install/) &mdash; and keep it updated
+  * Android
+    * Install Badger Watch: https://play.google.com/store/apps/details?id=org.projectbadger.badger
+  * iOS
+    * Install TestFlight: https://itunes.apple.com/gb/app/testflight/id899247664
+    * Then install Badger Watch: https://itunes.apple.com/gb/app/testflight/id899247664
+* [Introduction](https://crsdc.github.io/badger/intro/) &mdash; some information about the app and its testing phase
+* [Q&amp;A](https://crsdc.github.io/badger/qanda/) &mdash; answers for local badger groups, app testers and others
+* [What to test](https://crsdc.github.io/badger/testing/) &mdash; and what to look out for
+* [Feedback](https://crsdc.github.io/badger/feedback/) &mdash; how to let us know what you find
+* [Issue tracker](https://github.com/crsdc/badgerapp/issues) &mdash; see what's been noticed
+* [Release notes](https://crsdc.github.io/badger/releasenotes/) &mdash; what's changed in recent updates
+* [Privacy policy](https://crsdc.github.io/badger/privacy/)
+
+This repository is used for issue tracking for now.
+
+Source code will be made available upon final public release of the app.
