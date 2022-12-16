@@ -1,10 +1,10 @@
 # Badger Watch
 
-Badger Watch is a cross-platform mobile app that helps you recognise, record and report badger persecution and related wildlife crime in England and Wales.
+A mobile app to help you recognise, record and report badger persecution and related wildlife crime in England and Wales.
 
 <table><tr align="center"><td width="50%"><a href='https://play.google.com/store/apps/details?id=org.projectbadger.badger'><img style="width: 50%" alt='Get it on Google Play' src='https://crsdc.github.io/badger/playstore.png'/></a></td><td width="50%"> iOS see below </td></tr></table>
 
-Visit the [project website](https://crsdc.github.io/badger/) for general info and screenshots, or the [testing website](https://crsdc.github.io/badger/) for more about how you can help.
+Visit the [app website](https://crsdc.github.io/badger/) for general info and screenshots, or the [testing project website](https://crsdc.github.io/badger/) for more about how you can help.
 
 * [How to install Badger Watch](https://crsdc.github.io/badger/install/) &mdash; and keep it updated
   * Android
@@ -20,6 +20,6 @@ Visit the [project website](https://crsdc.github.io/badger/) for general info an
 * [Release notes](https://crsdc.github.io/badger/releasenotes/) &mdash; what's changed in recent updates
 * [Privacy policy](https://crsdc.github.io/badger/privacy/)
 
-This repository is used for issue tracking for now.
+Badger Watch is a cross-platform app built with Flutter.
 
-Badger Watch was developed with Flutter. Source code will be made available here after our production releases have come out.
+This repository is used for issue tracking for now. Source code will be made available here after our production releases have come out.
